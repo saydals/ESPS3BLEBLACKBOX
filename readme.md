@@ -187,6 +187,11 @@ If `config.txt` is missing or a read error occurs, the file is recreated with th
   1 / 2-CS / 3-MOSI / 4-+V / 5-SCK / 6-GND / 7-MOSI / 8
   ```
 
+  ![Image 1](1.JPG) | ![Image 2](2.JPG)
+  :---:|:---:
+  ![Image 3](3.JPG) | ![Image 4](4.JPG)
+  :---:|:---:
+
 ---
 
 ## 7. Test Results
